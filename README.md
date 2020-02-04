@@ -10,18 +10,18 @@ style.css
 
 //README.md <-- ignorar
 
--(carpeta) cuerpo:\n
-index.html\n
-cuerpo.css\n
+-(carpeta) cuerpo:
+index.html
+cuerpo.css
 
---(cuerpo/carpeta) imagen:\n
-index.html\n
-imagen.css\n
+--(cuerpo/carpeta) imagen:
+index.html
+imagen.css
 
---(cuerpo/carpeta) infopelis:\n
-index.html\n
-+sin css por ahora\n
+--(cuerpo/carpeta) infopelis:
+index.html
++sin css por ahora
 
---(cuerpo/carpeta) peliculas:\n
-index.html\n
-+sin css por ahora\n
+--(cuerpo/carpeta) peliculas:
+index.html
++sin css por ahora
