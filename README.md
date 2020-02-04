@@ -14,14 +14,14 @@ style.css
 index.html
 cuerpo.css
 
---(cuerpo/carpeta) imagen:
+--(cuerpo/imagen)
 index.html
 imagen.css
 
---(cuerpo/carpeta) infopelis:
+--(cuerpo/infopelis)
 index.html
 +sin css por ahora
 
---(cuerpo/carpeta) peliculas:
+--(cuerpo/peliculas)
 index.html
 +sin css por ahora
