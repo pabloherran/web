@@ -6,13 +6,14 @@ body
 
 #imagen
 {
-	width: 250px;
-	height: 400px;
+	width: 249px;
+	height: 384px;
 	position: relative;
 	left: 20px;
 	top: 20px;
-	background-color: red;
+	background-color: white;
 }
+
 
 img
 {
