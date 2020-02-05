@@ -39,7 +39,7 @@ img
 	border: 1px solid black;
 	width: 600px;
 	height: 450px;
-	left: 340px;
+	left: 450px;
 }
 
 #sinopsis #img
@@ -63,8 +63,9 @@ img
 	position: relative;
 	left: 20px;
 	top: 20px;
-	font-size: 25px;
+	font-size: 22px;
 }
+
 
 #sinopsis #t
 {
@@ -92,4 +93,30 @@ img
 	position: absolute;
 	left: 140px;
 	top: 140px;
+}
+
+
+#lista
+{
+	position: fixed;
+	width: 250px;
+	height: 450px;
+	border: 1px solid black;
+	right: 20px;
+}
+
+footer
+{
+	position: absolute;
+	text-align: center;
+}
+
+#footer
+{
+	position: fixed;
+	bottom: 2px;
+	left: 0;
+	right: 0;
+	background-color: #333;
+	color: white;
 }
