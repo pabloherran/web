@@ -27,6 +27,7 @@ index.html
 +sin css por ahora
 
 -(carpeta) img:
+
 accion1.jpg
 accion2.jpg
 accion3.jpg
