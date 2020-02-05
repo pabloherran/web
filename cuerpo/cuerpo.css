@@ -16,7 +16,7 @@ body
 	position: relative;
 	width: 250px;
 	height: 386px;
-	background-color: blue;
+	background-color: #39464e;
 
 }
 
@@ -59,7 +59,7 @@ img
 	position: relative;
 	width: 95px;
 	height: 147px;
-	background-color: blue;
+	background-color: #39464e;
 	left: 20px;
 	top: 20px;
 }
