@@ -1,13 +1,19 @@
 ul {
+  position: fixed;
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #39464e;
+  left: 0;
+  right: 0;
+  top: 0;
 }
 
 li {
   float: left;
+  left: 0;
+  right: 0;
 }
 
 li a {
@@ -23,11 +29,12 @@ li a:hover:not(.active) {
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: #0084ff;
 }
 
 body
 {
-	background-color: red;
+	background-color: #21262d;
+  position: absolute;
 }
 

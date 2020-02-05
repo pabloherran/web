@@ -1,6 +1,6 @@
 body
 {
-	background-color: red;
+	background-color: #21262d;
 	position: absolute;
 }
 #izq
@@ -40,6 +40,7 @@ img
 	width: 600px;
 	height: 450px;
 	left: 450px;
+	color: white;
 }
 
 #sinopsis #img
@@ -117,6 +118,6 @@ footer
 	bottom: 2px;
 	left: 0;
 	right: 0;
-	background-color: #333;
+	background-color: #39464e;
 	color: white;
 }
