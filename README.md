@@ -25,3 +25,16 @@ index.html
 --(cuerpo/peliculas)
 index.html
 +sin css por ahora
+
+-(carpeta) img:
+accion1.jpg
+accion2.jpg
+accion3.jpg
+
+fantasia1.jpg
+fantasia2.jpg
+fantasia3.jpg
+
+horror1.jpg
+horror2.jpg
+horror3.jpg
