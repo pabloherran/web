@@ -1,4 +1,17 @@
 body
 {
 	background-color: purple;
+	position: absolute;
+}
+
+#titulos
+{
+	
+	width: 250px;
+	height: 20px;
+	position: relative;
+	top: 5px;
+	left: 20px;
+	background-color: green;
+	text-align: center;
 }

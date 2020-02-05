@@ -35,3 +35,25 @@ p
 {
 	text-align: center;
 }
+
+#imdb
+{
+	widows: 250px;
+	height: 20px;
+	position: relative;
+	top: 40px;
+	left: 20px;
+	background-color: purple;
+	text-align: center;
+}
+
+a
+{
+
+	text-decoration: none;
+	color: white;
+}
+a:hover
+{
+	cursor: wait;
+}
