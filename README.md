@@ -1,32 +1,32 @@
-###Distribucion Web:
+### Distribucion Web:
 
 -Hay carpeta para cada archivo.html con su .css correspondiente
 -Cuando clonais el git web:
 
-##Carpeta web:
+## Carpeta web:
 
 index.html
 style.css
 
 //README.md <-- ignorar
 
-#-(carpeta) cuerpo:
+# -(carpeta) cuerpo:
 index.html
 cuerpo.css
 
-#--(cuerpo/imagen)
+# --(cuerpo/imagen)
 index.html
 imagen.css
 
-#--(cuerpo/infopelis)
+# --(cuerpo/infopelis)
 index.html
 +sin css por ahora
 
-#--(cuerpo/peliculas)
+# --(cuerpo/peliculas)
 index.html
 +sin css por ahora
 
-#-(carpeta) img:
+# -(carpeta) img:
 
 accion1.jpg
 accion2.jpg
