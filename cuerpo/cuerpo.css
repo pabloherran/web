@@ -3,3 +3,93 @@ body
 	background-color: red;
 	position: absolute;
 }
+#izq
+{
+	position: fixed;
+	border: 1px solid black;
+	left: 20px;
+	background-color: grey;
+}
+
+#imagen
+{
+	position: relative;
+	width: 250px;
+	height: 386px;
+	background-color: blue;
+
+}
+
+#titulo
+{
+	text-align: center;
+	font-size: 20px;
+
+}
+
+img
+{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#sinopsis
+{
+	position: fixed;
+	border: 1px solid black;
+	width: 600px;
+	height: 450px;
+	left: 340px;
+}
+
+#sinopsis #img
+{
+	position: relative;
+	width: 95px;
+	height: 147px;
+	background-color: blue;
+	left: 20px;
+	top: 20px;
+}
+
+#sinopsis img
+{
+	max-height: 100%;
+	max-width: 100%;
+}
+
+#sinopsis #resumen
+{
+	position: relative;
+	left: 20px;
+	top: 20px;
+	font-size: 25px;
+}
+
+#sinopsis #t
+{
+	position: absolute;
+	left: 140px;
+	top: 30px;
+}
+
+#sinopsis #estreno
+{
+	position: absolute;
+	left: 140px;
+	top: 70px;
+}
+
+#sinopsis #director
+{
+	position: absolute;
+	left: 140px;
+	top: 105px;
+}
+
+#sinopsis #categoria
+{
+	position: absolute;
+	left: 140px;
+	top: 140px;
+}
