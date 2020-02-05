@@ -25,11 +25,16 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #111;
+  background-color: #0084ff;
+  color: black;
 }
 
 .active {
   background-color: #0084ff;
+}
+.active:hover
+{
+  color: black;
 }
 
 body
